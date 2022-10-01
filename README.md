@@ -1,11 +1,11 @@
-# Project-13 HTML <img src="./screenshot/1.png" width="30"> and CSS <img src="./screenshot/css1.png" width="30">
+# Project-13 HTML <img src="./image/1.png" width="30"> and CSS <img src="./image/css1.png" width="30">
 
 ## Hi, I'm Shubham Somvanshi! 👋
 
 
 ## Screenshots
 
-![App Screenshot](./screenshot/_C__Users_talas_OneDrive_Documents_assingment_live-class-project-13_index.html.png)
+![App Screenshot](./image/_C__Users_talas_OneDrive_Documents_assingment_live-class-project-13_index.html.png)
 
 >I Deployed my Site on Netlify and Vercel. so you can check it out 👇
 <br> [https://saassomu.netlify.app/)
