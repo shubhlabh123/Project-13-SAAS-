@@ -8,8 +8,8 @@
 ![App Screenshot](./image/_C__Users_talas_OneDrive_Documents_assingment_live-class-project-13_index.html.png)
 
 >I Deployed my Site on Netlify and Vercel. so you can check it out 👇
-<br> [https://saassomu.netlify.app/)
-<br> [https://project-13-saas-um94-ejosixmxj-shubhamsomvanshi732-gmailcom.vercel.app/)
+
+ [Click Me](https://project-13-saas-um94-ejosixmxj-shubhamsomvanshi732-gmailcom.vercel.app/)
 
 ## What I Learned from this Project?
 
